@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\79097\\.gradle\\daemon\\7.5\\com.example.mvvmApodTest.app-mergeDebugResources-4:\\layout\\fragment_search.xml",
+        "source": "C:\\Users\\79097\\.gradle\\daemon\\7.5\\com.example.mvvmApodTest.app-main-7:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\79097\\.gradle\\daemon\\7.5\\com.example.mvvmApodTest.app-mergeDebugResources-4:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\79097\\.gradle\\daemon\\7.5\\com.example.mvvmApodTest.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\79097\\.gradle\\daemon\\7.5\\com.example.mvvmApodTest.app-mergeDebugResources-4:\\layout\\fragment_current.xml",
+        "source": "C:\\Users\\79097\\.gradle\\daemon\\7.5\\com.example.mvvmApodTest.app-main-7:\\layout\\fragment_current.xml"
+    },
+    {
+        "merged": "C:\\Users\\79097\\.gradle\\daemon\\7.5\\com.example.mvvmApodTest.app-mergeDebugResources-4:\\layout\\item_view_picture_of_day.xml",
+        "source": "C:\\Users\\79097\\.gradle\\daemon\\7.5\\com.example.mvvmApodTest.app-main-7:\\layout\\item_view_picture_of_day.xml"
+    },
+    {
+        "merged": "com.example.mvvmApodTest.app-mergeDebugResources-4:/layout/fragment_current.xml",
+        "source": "com.example.mvvmApodTest.app-main-7:/layout/fragment_current.xml"
+    }
+]
